@@ -1,0 +1,22 @@
+Avance v1:
+
+- Manejo de CodeIgniter
+- Busquedas con ajax
+- Paginacion
+- Paginacion Estilo twitter en el index
+- Definicion de vistas (plantilla)
+- Definicion de categorias 
+- Menu acordeon
+- Formulario de ingreso a Base de Datos
+- Botones de Redes Sociales
+
+Posibles Mejoras:
+
+- Menu dinamico desde la Base de Datos
+- Paginacion estilo twitter en categorias
+- Un BackEnd de Administracion
+- Votación
+- Comentarios
+- Conteo de descargas
+- Aviso de enlaces rotos
+- thumbail de enlaces y de videos

@@ -1,0 +1,26 @@
+#main_content {
+	/*border: #999 1px solid;*/
+        border: #999 0px solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding: 5px;
+}
+
+#more_button {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	color: #990000;
+	text-align: center;
+	padding: 5px;
+	background-color: #fff;
+	background-image: url("http://s.twimg.com/a/1261078355/images/more.gif");
+	background-repeat: repeat-x;
+	cursor: pointer;
+	border: 1px solid #AAA;
+}
+
+#more_button:hover {
+	border:1px solid #bbb;
+	text-decoration:none;
+	background-position:left -78px;
+}
