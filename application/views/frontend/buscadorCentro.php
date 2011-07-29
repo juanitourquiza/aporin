@@ -25,7 +25,7 @@
                                     $titulo=$message->titulo;
                                     $categorias_id=$message->categorias_id;
                                     $imagen=$message->imagen_libro;
-                                    if ($imagen=="")$imagen="http://img3.imageshack.us/img3/6807/imagenotfoundt.gif";
+                                    if ($imagen=="")$imagen="http://img846.imageshack.us/img846/1610/sinimagen.jpg";
                                     if($i%3 == 0) echo '</tr><tr>';
                                     $i++;
                                     echo '<td>'.anchor('categorias/index/'.$categorias_id.'/'.$id,$titulo).'<img src='.$imagen.' width="150" height="150" title="" /></td>';

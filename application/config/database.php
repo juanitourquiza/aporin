@@ -43,7 +43,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['password'] = 'carajo';
 $db['default']['database'] = 'aporin';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';

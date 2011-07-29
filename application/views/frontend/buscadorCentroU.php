@@ -12,7 +12,7 @@
                     $link_descarga = $dato->link_descarga;
                     $idioma = $dato->idioma;
                     $imagen = $dato->imagen_libro;
-                    if ($imagen=="")$imagen="http://img3.imageshack.us/img3/6807/imagenotfoundt.gif";
+                    if ($imagen=="")$imagen="http://img846.imageshack.us/img846/1610/sinimagen.jpg";
                     $tamano = $dato->tamano;
                     if ($tamano=="")$tamano="Sin especificar";
                     $resumen = $dato->resumen;
