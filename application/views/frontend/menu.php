@@ -197,12 +197,12 @@
             <li><span><strong>Multimedia</strong></span>
                 <ul>
                     <li><a href="<?php echo base_url()?>index.php/categorias/mostrar/11">Videos</a>
-                    <li><a href="<?php echo base_url()?>index.php/categorias/mostrar/12">Fotografias</a>
+                    <li><a href="<?php echo base_url()?>index.php/categorias/mostrar/14">Fotografias</a>
                 </ul>
             </li>
             <li><span><strong>Comunicación</strong></span>
                 <ul>
-                    <li><a href="<?php echo base_url()?>index.php/categorias/mostrar/14">Periodismo</a>
+                    <li><a href="<?php echo base_url()?>index.php/categorias/mostrar/15">Periodismo</a>
                 </ul>
             </li>
 
